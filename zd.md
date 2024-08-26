@@ -11,3 +11,5 @@
 > `hugo server`生成本地网页？可预览
 
 > `hugo new content/post/文件名.md`生成一个.md文件
+
+//测试
